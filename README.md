@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web/App Developement, Cybersecurity
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on Front-end Web Developement Projects
-- 📫 How to reach me    Email: sahil.paleja@somaiya.edu || Linkedin: www.linkedin.com/in/sahil-paleja
+- 📫 How to reach me    Email: sahil2777007@gmail.com || Linkedin: www.linkedin.com/in/sahil-paleja
 -                    
 
 <!---
